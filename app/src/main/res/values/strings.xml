@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name_text">Jessica Singhal</string>
+    <string name="yellow_star_content_desc">Yellow star</string>
+    <string name="about_me_text">
+    Jessica Singhal is a driven and passionate individual who thrives on challenges and constant learning. Her commitment to excellence is evident in everything she does. From her ventures in software development and evident affinity towards technology, as indicated by her queries on GitHub and Kotlin, to her willingness to engage and understand, she demonstrates the spirit of a true innovator. Her pursuit of knowledge isn\'t just limited to the digital realm; she possesses an innate ability to connect with people and is ever-curious, always looking to expand her horizons and delve into diverse realms.\n\n
+
+    Beyond her professional accomplishments, Hiteshi has a warm and engaging personality, often being the bridge between groups and bringing people together. She has a penchant for storytelling, a trait that makes her an effective communicator and a favorite among her peers. This ability to weave narratives, combined with her tech-savviness, gives her a unique edge in the ever-evolving world of technology. Her approach to challenges is methodical and reflective, always seeking to optimize and refine. To know Hiteshi is to understand a blend of passion, intellect, and heart, creating an inspiring journey for all who cross her path.\n
+    </string>
+    <string name="hint_edit_text">What is your nickname ?</string>
+    <string name="done_button">Done</string>
+</resources>

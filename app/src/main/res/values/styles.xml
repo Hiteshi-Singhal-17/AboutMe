@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="textViewStyle">
+        <item name="android:layout_marginTop">@dimen/view_margin_top</item>
+        <item name="android:fontFamily">@font/roboto</item>
+        <item name="android:paddingTop">@dimen/view_padding_top</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:textSize">@dimen/text_size</item>
+    </style>
+</resources>
